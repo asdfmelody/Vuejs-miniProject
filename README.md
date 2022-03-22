@@ -10,6 +10,9 @@
  
 3. 로그인
     - 일반 회원과 관리자 회원이 있다.
+
+## DB 설계
+![image](https://user-images.githubusercontent.com/56292365/159511045-9aafe890-7273-4e1e-a906-90e8787cef82.png)
  
 ## Built With
 - [Vue.js](https://vuejs.org/)
